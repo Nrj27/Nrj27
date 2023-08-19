@@ -15,8 +15,24 @@
 <a href="https://linkedin.com/in/neerajrikhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajrikhari" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&locale=en" alt="nrj27" /></p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/nrj27">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&locale=en" alt="nrj27" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nrj27">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&" alt="nrj27" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&" alt="nrj27" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
+</p>
+
 [![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
