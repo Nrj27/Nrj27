@@ -2,12 +2,15 @@
 <h3 align="center"> CS Enthusiat </h3>
 <h4 align="center">A passionate Java Developer</h4>
 
-- 🔭 I’m currently working on **Data Analytics**
-- 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **Java**
-- 👨‍💻 All of my projects are available at [https://nrj27.github.io/](https://nrj27.github.io/)
-- 💬 Ask me about **Data Analytics,EDA,Web3,Python, CyberSecurity.**
-- 
+**ABOUT ME**<br>
+- 🌱 Learning Android App Development
+- 🔭 Working on growing my skills in Data Structures and Algorithms.
+- 👯 Looking to collaborate on open-source.
+- 💬 Ask me about Java, Python and C++ programming, Data Analytics, CyberSecurity will be happy to help.
+- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/ishika-punchariya-7a286121b](https://www.linkedin.com/in/neerajrikhari/)).
+- ⚡ Fun fact: Always curious to learn new things.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neerajrikhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajrikhari" height="30" width="40" /></a>
