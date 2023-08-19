@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&locale=en" alt="nrj27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&" alt="nrj27" /></p>
+[![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
+
