@@ -2,8 +2,6 @@
 <h3 align="center"> CS Enthusiat </h3>
 <h4 align="center">A passionate Java Developer</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrj27&label=Profile%20views&color=0e75b6&style=flat" alt="nrj27" /> </p>
-
 - 🔭 I’m currently working on **Data Analytics**
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **Java**
@@ -36,3 +34,7 @@
 
 [![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
+<p align = "center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Ishika2&label=PROFILE+VIEWS&color=green&style=plastic" alt="GITHUB-USERNAME" />
+</p>
