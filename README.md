@@ -39,5 +39,5 @@
 
 <p align = "center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Ishika2&label=PROFILE+VIEWS&color=green&style=plastic" alt="GITHUB-USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=Nrj27&label=PROFILE+VIEWS&color=green&style=plastic" alt="GITHUB-USERNAME" />
 </p>
