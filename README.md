@@ -1,6 +1,6 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<img  src="./borderseperator.gif">
+![Separator](./borderseperator.gif)
 <h1 align="center">Hi 👋, I'm Neeraj Rikhari</h1>
 <h3 align="center"> CS Enthusiat </h3>
 <h4 align="center">A passionate Java Developer</h4>
@@ -37,7 +37,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
 </p>
-  <img  src="./borderseperator.gif">
+
+  ![Separator](./borderseperator.gif)
   
 [![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
