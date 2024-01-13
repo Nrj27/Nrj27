@@ -1,10 +1,12 @@
+https://www.youtube.com/watch?v=SDkAGkd4NLc
+
 <h1 align="center">Hi 👋, I'm Neeraj Rikhari</h1>
 <h3 align="center"> CS Enthusiat </h3>
 <h4 align="center">A passionate Java Developer</h4>
 
 **ABOUT ME**<br>
 - 🌱 Learning Java
-- 🔭 Working on growing my skills in Data Structures and Algorithms, Data Analytics.
+- 🔭 Working on growing my skills in Data Structures and Algorithms and Data Analytics.
 - 👯 Looking to collaborate on open-source.
 - 💬 Ask me about Java, Python and C++ programming, Data Analytics, and CyberSecurity will be happy to help.
 - 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/ishika-punchariya-7a286121b](https://www.linkedin.com/in/neerajrikhari/)).
