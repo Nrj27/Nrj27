@@ -3,7 +3,7 @@
 ![Separator](./borderseperator.gif)
 <h1 align="center">Hi 👋, I'm Neeraj Rikhari</h1>
 <h3 align="center"> CS Enthusiat </h3>
-<h4 align="center">A passionate Developer</h4>
+<h4 align="center">A Passionate Developer</h4>
 
 **ABOUT ME**<br>
 - 🌱 Learning 
