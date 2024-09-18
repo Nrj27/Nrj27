@@ -1,7 +1,7 @@
 <h1 align="center">Neeraj Rikhari</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/Nrj27/Nrj27/output/snake.svg" alt="Snake animation"
+
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 ![Separator](./borderseperator.gif)
