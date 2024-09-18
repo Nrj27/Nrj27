@@ -1,11 +1,12 @@
 <h1 align="center">Neeraj Rikhari</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
-
+###
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 ![Separator](./borderseperator.gif)
 
+###
 
 <div align="center">
     <a href="https://linkedin.com/in/neerajrikhari" target="_blank">
@@ -16,9 +17,13 @@
     </a>
 </div>
 
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nrj27.Nrj27&"  />
 </div>
+
+###
 
 **ABOUT ME**<br>
 - 🌱 Learning 
@@ -27,11 +32,13 @@
 - 💬 Ask me about Java, Python and C++ programming, Data Analytics, and CyberSecurity will be happy to help.
 - ⚡ Fun fact: Always curious to learn new things.
 
-
+###
 
 ![Separator](./borderseperator.gif)
   
 [![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
+
+###
 
 <br>
 <br>
