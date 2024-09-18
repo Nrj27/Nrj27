@@ -25,12 +25,11 @@
 - 🔭 Working on growing my skills.
 - 👯 Looking to collaborate on open-source.
 - 💬 Ask me about Java, Python and C++ programming, Data Analytics, and CyberSecurity will be happy to help.
-- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/ishika-punchariya-7a286121b](https://www.linkedin.com/in/neerajrikhari/)).
 - ⚡ Fun fact: Always curious to learn new things.
 
 
 
-  ![Separator](./borderseperator.gif)
+![Separator](./borderseperator.gif)
   
 [![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
