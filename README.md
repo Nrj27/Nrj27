@@ -1,9 +1,17 @@
+<h1 align="center">Neeraj Rikhari</h1>
+<h3 align="center">Computer Science Engineer</h3>
+
+<img align="center" src="https://raw.githubusercontent.com/Nrj27/Nrj27/output/snake.svg" alt="Snake animation"
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 ![Separator](./borderseperator.gif)
-<h1 align="center">Hi 👋, I'm Neeraj Rikhari</h1>
-<h3 align="center"> CS Enthusiat </h3>
-<h4 align="center">A Passionate Developer</h4>
+
+
+<p align="Center">
+<a href="https://linkedin.com/in/neerajrikhari" target="blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> <a/>
+</p>
+
 
 **ABOUT ME**<br>
 - 🌱 Learning 
@@ -14,10 +22,8 @@
 - ⚡ Fun fact: Always curious to learn new things.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neerajrikhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajrikhari" height="30" width="40" /></a>
-</p>
+
+
 
 <table border="0">
   <tr>
