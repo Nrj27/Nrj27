@@ -16,6 +16,9 @@
     </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nrj27.Nrj27&"  />
+</div>
 
 **ABOUT ME**<br>
 - 🌱 Learning 
@@ -27,7 +30,9 @@
 
 
 
-
+  ![Separator](./borderseperator.gif)
+  
+[![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
 <table border="0">
   <tr>
@@ -48,11 +53,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
 </p>
 
-  ![Separator](./borderseperator.gif)
-  
-[![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
-<p align = "center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Nrj27&label=PROFILE+VIEWS&color=green&style=plastic" alt="GITHUB-USERNAME" />
-</p>
