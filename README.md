@@ -34,12 +34,6 @@
 
 ###
 
-![Separator](./borderseperator.gif)
-  
-[![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
-
-###
-
 <br>
 <br>
 <table border="0">
@@ -61,4 +55,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
 </p>
 
+
+###
+
+![Separator](./borderseperator.gif)
+  
+[![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
