@@ -34,26 +34,25 @@
 
 ###
 
-<br>
-<br>
 <table border="0">
   <tr>
     <td>
       <a href="https://github.com/nrj27">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&locale=en" alt="nrj27" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&locale=en" alt="nrj27 stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/nrj27">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&" alt="nrj27" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27" alt="nrj27 streak" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
 </p>
+
 
 
 ###
