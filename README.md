@@ -24,21 +24,21 @@
 </div>
 
 ###
-
+<!--
 **ABOUT ME**<br>
 - 🌱 Learning 
 - 🔭 Working on growing my skills.
 - 👯 Looking to collaborate on open-source.
 - 💬 Ask me about Java, Python and C++ programming, Data Analytics, and CyberSecurity will be happy to help.
 - ⚡ Fun fact: Always curious to learn new things.
-
+-->
 ###
 
 <table border="0">
   <tr>
     <td>
       <a href="https://github.com/nrj27">
-        <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&locale=en" alt="nrj27 stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&include_all_commits=true&theme=ocean_dark&border_color=6b03fc" alt="nrj27 stats" />
       </a>
     </td>
     <td>
@@ -50,7 +50,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&theme=ocean_dark&langs_count=10&border_color=6b03fc" />
 </p>
 
 
