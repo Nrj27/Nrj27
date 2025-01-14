@@ -43,7 +43,7 @@
     </td>
     <td>
       <a href="https://github.com/nrj27">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&show_icons=true&locale=en" alt="nrj27 streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&show_icons=true&include_all_commits=true&theme=ocean_dark&border_color=6b03fc"  alt="nrj27 streak" />
       </a>
     </td>
   </tr>
