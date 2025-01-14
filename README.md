@@ -53,6 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&theme=ocean_dark&langs_count=10&border_color=6b03fc" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nrj27&theme=dark&bg_color=000000&border_color=6b03fc" alt="nrj27 activity graph" />
+</p>
 
 
 ###
