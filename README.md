@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats & Projects
+### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div>
@@ -48,8 +48,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact&theme=ocean_dark&border_color=6b03fc" alt="Top Languages" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
   </div>
 </div>
-
-
 
 ---
 
