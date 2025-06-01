@@ -35,19 +35,20 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&include_all_commits=true&theme=ocean_dark&border_color=6b03fc" alt="GitHub Stats" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
-  </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&include_all_commits=true&theme=ocean_dark&border_color=6b03fc" alt="GitHub Stats" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&theme=ocean_dark&border=6b03fc" alt="GitHub Streak" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact&theme=ocean_dark&border_color=6b03fc" alt="Top Languages" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&theme=ocean_dark&border=6b03fc" alt="GitHub Streak" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
-  </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact&theme=ocean_dark&border_color=6b03fc" alt="Top Languages" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
-  </div>
-</div>
 
 ---
 
