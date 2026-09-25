@@ -58,12 +58,22 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nrj27&show_icons=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub statistics" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" height="180" />
+  <a href="https://github.com/Nrj27">
+    <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Neeraj's GitHub statistics" width="49%" />
+  </a>
+  <a href="https://github.com/Nrj27">
+    <img src="https://streak-stats.demolab.com/?user=nrj27&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Neeraj's GitHub contribution streak" width="49%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrj27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Neeraj's most-used programming languages" />
+  <a href="https://github.com/Nrj27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Neeraj's most-used programming languages" width="50%" />
+  </a>
+</p>
+
+<p align="center">
+  If the cards do not load immediately, open my <a href="https://github.com/Nrj27">GitHub profile</a> and refresh after a few seconds.
 </p>
 
 ---
@@ -71,7 +81,13 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nrj27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+  <a href="https://github.com/Nrj27">
+    <img src="https://github-profile-trophy.vercel.app/?username=nrj27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  View my achievements on <a href="https://github.com/Nrj27">GitHub</a>.
 </p>
 
 ---
@@ -79,7 +95,13 @@
 ## 🟩 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nrj27&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/Nrj27">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrj27&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Neeraj%27s%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  View my contribution history on <a href="https://github.com/Nrj27">GitHub</a>.
 </p>
 
 ---
