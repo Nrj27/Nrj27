@@ -43,6 +43,11 @@ I am a backend-focused developer passionate about building secure, scalable, and
   <img src="https://streak-stats.demolab.com/?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nrj27/Nrj27/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Nrj27/Nrj27/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake animation" />
+</p>
+
 ---
 
 ## Holopin Badges
