@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer • Java • Python • APIs • Databases • Secure Systems</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix animation" width="100%" />
+  <img src="https://github.com/Nrj27/Nrj27/blob/main/matrix.svg" alt="Matrix animation" width="100%" />
 </p>
 
 <p align="center">
@@ -52,37 +52,13 @@ I am a backend-focused developer passionate about building secure, scalable, and
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nrj27&show_icons=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub statistics" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrj27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Neeraj's most-used programming languages" width="50%" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/Nrj27?tab=repositories">View all repositories</a>
-</p>
 
 ---
 
-## Featured Links
-
-<p align="center">
-  <a href="https://github.com/Nrj27?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-  <a href="https://github.com/Nrj27?tab=followers">
-    <img src="https://img.shields.io/github/followers/Nrj27?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Nrj27?tab=stars">
-    <img src="https://img.shields.io/github/stars/Nrj27?style=for-the-badge&logo=github&label=Profile%20stars" alt="GitHub profile stars" />
-  </a>
-</p>
-
-> GitHub's contribution calendar is maintained and displayed natively on my profile: [open my GitHub profile](https://github.com/Nrj27).
-
----
 
 ## Holopin Badges
 
