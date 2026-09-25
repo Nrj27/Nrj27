@@ -1,67 +1,109 @@
-<h1 align="center">Neeraj Rikhari</h1>
-<h3 align="center">Backend Developer | Java & Python Enthusiast | Open-Source Contributor</h3>
+<h1 align="center">Hi, I'm Neeraj Rikhari 👋</h1>
+
+<h3 align="center">Backend Developer • Java & Python Enthusiast • Open-Source Contributor</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Animation" />
+  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
+    <img src="https://img.youtube.com/vi/SDkAGkd4NLc/maxresdefault.jpg" alt="Watch my coding setup video on YouTube" width="100%" />
+  </a>
 </p>
 
+<p align="center"><em>Click the banner above to watch the video on YouTube.</em></p>
+
+> GitHub profile READMEs cannot play YouTube videos directly because GitHub sanitizes embedded `<iframe>` and `<video>` elements. The clickable thumbnail above is the most reliable and professional alternative.
+
 ![Separator](./borderseperator.gif)
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/neerajrikhari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/neerajrikhari201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111111" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/Neeraj27/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-</div>
+</p>
 
 ---
 
-<details open>
-<summary><strong>🚀 About Me</strong></summary>
+## 👨‍💻 About Me
 
-- 💻 Passionate **Java** and **Python** developer with a focus on **backend technologies**.
-- 🌱 Actively contributing to **open-source projects** and continuously learning new frameworks.
-- 🔒 Interested in **Cybersecurity** and building secure, scalable applications.
-- 🤝 Open to collaboration and mentorship opportunities to grow and contribute to the tech community.
-
-</details>
+- 💻 Backend-focused developer passionate about **Java** and **Python**.
+- 🧩 Interested in designing reliable, maintainable, and scalable applications.
+- 🌱 Continuously learning backend engineering, modern frameworks, and system design.
+- 🔐 Exploring **cybersecurity** and secure software development practices.
+- 🤝 Open to collaboration, open-source contributions, mentorship, and meaningful engineering opportunities.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technologies & Tools
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nrj27&show_icons=true&include_all_commits=true&theme=ocean_dark&border_color=6b03fc" alt="GitHub Stats" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrj27&theme=ocean_dark&border=6b03fc" alt="GitHub Streak" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrj27&layout=compact&theme=ocean_dark&border_color=6b03fc" alt="Top Languages" style="max-width: 100%; width: 300px; border-radius: 8px;"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,git,github,docker,linux" alt="Java, Python, Spring, PostgreSQL, MySQL, Git, GitHub, Docker, and Linux" />
+</p>
 
+> The technology list should reflect tools you actively use. Add or remove icons as your experience evolves.
+
+---
+
+## 📌 What I'm Working Toward
+
+- Building production-quality backend services and APIs.
+- Improving my understanding of architecture, scalability, and observability.
+- Writing secure, tested, and well-documented code.
+- Contributing consistently to open-source projects.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nrj27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub statistics" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrj27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Neeraj's most-used programming languages" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nrj27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+</p>
+
+---
+
+## 🟩 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nrj27&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
 ![Separator](./borderseperator.gif)
 
-[![@neerajr_27 Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
+## 🎖️ Holopin Badges
 
+[![Neeraj's Holopin board](https://holopin.me/neerajr_27)](https://holopin.io/@neerajr_27)
 
 ---
 
-### 💻 Profile Views
+## 🤝 Let's Connect
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nrj27&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
-  
+<p align="center">
+  <a href="https://linkedin.com/in/neerajrikhari" target="_blank">LinkedIn</a> •
+  <a href="https://www.hackerrank.com/profile/neerajrikhari201" target="_blank">HackerRank</a> •
+  <a href="https://leetcode.com/u/Neeraj27/" target="_blank">LeetCode</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nrj27&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
+</p>
+
+<p align="center"><em>Build thoughtfully. Learn continuously. Share what you discover.</em></p>
