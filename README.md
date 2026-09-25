@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Neeraj Rikhari 👋</h1>
+<h1 align="center">Hi, I'm Neeraj👋</h1>
 
 <h3 align="center">Backend Developer • Java • Python • APIs • Databases • Secure Systems</h3>
 
