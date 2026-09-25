@@ -3,25 +3,25 @@
 <h3 align="center">Backend Developer • Java & Python Enthusiast • Open-Source Contributor</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
-    <img src="https://img.youtube.com/vi/SDkAGkd4NLc/maxresdefault.jpg" alt="Watch my coding setup video on YouTube" width="100%" />
+  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
+    <img src="https://i.ytimg.com/vi/SDkAGkd4NLc/hqdefault.jpg" alt="Watch Neeraj's video on YouTube" width="100%" />
   </a>
 </p>
 
-<p align="center"><em>Click the banner above to watch the video on YouTube.</em></p>
+<p align="center"><em>Click the video preview to watch it on YouTube.</em></p>
 
-> GitHub profile READMEs cannot play YouTube videos directly because GitHub sanitizes embedded `<iframe>` and `<video>` elements. The clickable thumbnail above is the most reliable and professional alternative.
+> GitHub does not support autoplaying or embedding YouTube videos inside profile READMEs. A clickable YouTube thumbnail is the supported alternative.
 
 ![Separator](./borderseperator.gif)
 
 <p align="center">
-  <a href="https://linkedin.com/in/neerajrikhari" target="_blank">
+  <a href="https://linkedin.com/in/neerajrikhari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/profile/neerajrikhari201" target="_blank">
+  <a href="https://www.hackerrank.com/profile/neerajrikhari201">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111111" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/u/Neeraj27/" target="_blank">
+  <a href="https://leetcode.com/u/Neeraj27/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
@@ -31,10 +31,10 @@
 ## 👨‍💻 About Me
 
 - 💻 Backend-focused developer passionate about **Java** and **Python**.
-- 🧩 Interested in designing reliable, maintainable, and scalable applications.
+- 🧩 Interested in reliable, maintainable, and scalable applications.
 - 🌱 Continuously learning backend engineering, modern frameworks, and system design.
 - 🔐 Exploring **cybersecurity** and secure software development practices.
-- 🤝 Open to collaboration, open-source contributions, mentorship, and meaningful engineering opportunities.
+- 🤝 Open to collaboration, open-source contributions, and meaningful engineering opportunities.
 
 ---
 
@@ -43,8 +43,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,git,github,docker,linux" alt="Java, Python, Spring, PostgreSQL, MySQL, Git, GitHub, Docker, and Linux" />
 </p>
-
-> The technology list should reflect tools you actively use. Add or remove icons as your experience evolves.
 
 ---
 
@@ -60,8 +58,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nrj27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub statistics" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nrj27&show_icons=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub statistics" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" height="180" />
 </p>
 
 <p align="center">
@@ -97,9 +95,9 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/neerajrikhari" target="_blank">LinkedIn</a> •
-  <a href="https://www.hackerrank.com/profile/neerajrikhari201" target="_blank">HackerRank</a> •
-  <a href="https://leetcode.com/u/Neeraj27/" target="_blank">LeetCode</a>
+  <a href="https://linkedin.com/in/neerajrikhari">LinkedIn</a> •
+  <a href="https://www.hackerrank.com/profile/neerajrikhari201">HackerRank</a> •
+  <a href="https://leetcode.com/u/Neeraj27/">LeetCode</a>
 </p>
 
 <p align="center">
