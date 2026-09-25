@@ -6,6 +6,8 @@
   <img src="https://github.com/Nrj27/Nrj27/blob/main/matrix.svg" alt="Matrix animation" width="100%" />
 </p>
 
+## Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/neerajrikhari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -65,14 +67,6 @@ I am a backend-focused developer passionate about building secure, scalable, and
 
 ---
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/neerajrikhari">LinkedIn</a> •
-  <a href="https://github.com/Nrj27">GitHub</a> •
-  <a href="https://www.hackerrank.com/profile/neerajrikhari201">HackerRank</a> •
-  <a href="https://leetcode.com/u/Neeraj27/">LeetCode</a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nrj27&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
