@@ -52,13 +52,27 @@ I am a backend-focused developer passionate about building secure, scalable, and
 ## GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nrj27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub statistics" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Nrj27&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub contribution streak" width="49%" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrj27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Neeraj's most-used programming languages" width="50%" />
+</p>
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nrj27/Nrj27/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nrj27?tab=overview&from=2021-12-01&to=2021-12-31">View my GitHub contribution history</a>
+</p>
+
+---
 
 ## Holopin Badges
 
